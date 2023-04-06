@@ -24,7 +24,7 @@ O tanto o diagrama quanto o projeto projeto foram totalmente construídos no idi
 
 ## Diagrama do projeto desenvolvido :pencil: 
 
-![](C:\Users\erikv\Videos\Captures\Astah - [D__Udemy_Uml_DesafioSpringDataDIO.asta] 03_04_2023 21_21_57 (2).png)
+![Diagrama de classes](https://github.com/Erik-Vasconcelos/DIO-desafio_projeto_spring-data-jpa/blob/master/diagram.png)
 
 
 
